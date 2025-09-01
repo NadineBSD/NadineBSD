@@ -1,12 +1,11 @@
-# Hello! I'm Nadine 🐱
+# Hello, I'm Nadine
 
-- 📚 I’m a 3rd year student at ESI (Higher National School of Computer Science, Algiers, Algeria).
-- 🌱 Freelance developer, starting mini projects to enhance my skills
-- 🔭 Passionate about web and mobile development and design.
-- 👯 Active member of ETIC, one of ESI's most popular clubs.
-- 💬 Excited to connect, collaborate, and learn from others in the tech community!
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nadine-bousdjira), [Instagram](https://www.instagram.com/nbamethyst/) or on my discord : nanibsd
-- ✨ My [portfolio](bento.me/nadine-bousdjira)
+- I’m a 4th year student at ESI (Higher National School of Computer Science, Algiers, Algeria).
+- Passionate about web developpment, graphic design and AI.
+- Active member of ETIC, one of ESI's most popular clubs.
+- Excited to connect, collaborate, and learn from others in the tech community!
+- How to reach me: [LinkedIn](www.linkedin.com/in/nadine-bousdjira), or on my discord : nanibsd
+- My [portfolio](bento.me/nadine-bousdjira)
 
 
 ## Technologies I Use:
